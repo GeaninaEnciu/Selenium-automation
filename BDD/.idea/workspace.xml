@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac564167-e244-44d8-af36-cbd55134d569" name="Changes" comment="" />
+    <list default="true" id="738cd5cb-3efe-4087-8b73-069e0a76f20c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="24j8BV83djI0OIJWIggZmDynbhz" />
+  <component name="ProjectId" id="24j8pusohTuMfIhqRMU4DjjPNL5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,11 +26,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac564167-e244-44d8-af36-cbd55134d569" name="Changes" comment="" />
-      <created>1644132501091</created>
+      <changelist id="738cd5cb-3efe-4087-8b73-069e0a76f20c" name="Changes" comment="" />
+      <created>1644132822384</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644132501091</updated>
+      <updated>1644132822384</updated>
     </task>
     <servers />
   </component>
